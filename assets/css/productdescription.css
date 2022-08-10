@@ -1,0 +1,42 @@
+.dimDowr{
+    height: 100px;
+    width: 100%;
+}
+.pDis ul li{
+    margin: 3px;
+    text-align: center;
+}
+
+.impu{
+    width:50px;
+}
+#subm{
+    background: #f33f3f;
+    color: #fff;
+    cursor: pointer;
+    border: 0px;
+    border-radius: 5px;
+}
+table{
+    
+   margin-top: 100px;
+   border-collapse: collapse;
+}
+td{
+   height: 50px;
+}
+.lbl{
+    text-align: right;
+}
+.infom{
+    text-align: left;
+}
+.quantity{
+    width:45px;
+}
+
+
+.quantiy{
+    color: #f33f3f;
+    
+}
